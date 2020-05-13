@@ -1,0 +1,23 @@
+{
+  "app.components.ErrorCard.header": "",
+  "app.components.ErrorCard.text": "",
+  "app.components.Footer.copyright": "",
+  "app.components.Footer.privacyBrief": "",
+  "app.components.Header.title": "",
+  "app.components.LocationCard.primaryHeader": "",
+  "app.components.LocationCard.secondaryHeader": "",
+  "app.components.Map.header": "",
+  "app.components.SearchBar.header": "",
+  "app.components.Section.header": "",
+  "app.containers.HomePage.backupNote": "",
+  "app.containers.HomePage.description": "",
+  "app.containers.HomePage.geolocationWarning": "",
+  "app.containers.HomePage.geolocationWarningNote": "",
+  "app.containers.HomePage.mainWarning": "",
+  "app.containers.HomePage.mapNote": "",
+  "app.containers.HomePage.moreInfo": "",
+  "app.containers.HomePage.searchNote": "",
+  "app.containers.HomePage.title": "",
+  "app.containers.HomePage.warning1": "",
+  "app.containers.NotFoundPage.header": ""
+}
